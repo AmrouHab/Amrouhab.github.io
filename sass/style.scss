@@ -1,0 +1,24 @@
+/*!
+ * Nom de projet : Animbay
+ * Auteurs: Amrou/Amine/Elisa/thomas
+ * Email: amrou.habibeh@epsi.fr
+ * URL: (pas encore definis)
+ */
+ 
+/*=========================================== 
+ * Importation des librairies CSS
+ *===========================================*/
+ @import 	"libs/settings",
+ 			"libs/mixins",
+ 			"libs/normalize",
+ 			"libs/global",
+ 			"libs/components",
+
+ 			"libs/bootstrap-grid/settings",
+ 			"libs/bootstrap-grid/mixins",
+ 			"libs/bootstrap-grid/grid",
+
+ 			"layout/header",
+ 			"layout/content",
+ 			"layout/footer";
+			
